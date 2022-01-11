@@ -6,10 +6,10 @@ from datetime import datetime
 import pyrebase
 flag = 0
 config = {
-    "apiKey": "Qk97ybuXKCn6ez3ZbcxkinPxtwqiNMf5FbBjSEUd",
-    "authDomain": "online-attendance-12b5f.firebaseapp.com",
-    "databaseURL": "https://online-attendance-12b5f-default-rtdb.firebaseio.com/",
-    "storageBucket": "online-attendance-12b5f.appspot.com",
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "storageBucket": "",
 }
 
 firebase = pyrebase.initialize_app(config)
